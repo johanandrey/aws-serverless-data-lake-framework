@@ -46,7 +46,7 @@ A PAT with the name **sdlf-aztoken** is necessary in order to allow the sdlf-tea
     
     Otherwise, you can install it from the github page: https://stedolan.github.io/jq/download/
 4. [AWS-cli](https://aws.amazon.com/cli/)
-5. [AWS Toolkit for Azure DevOps](https://aws.amazon.com/vsts/) Used in the service-connection. This connection **must** be configured previous to deployment and **has** to be configured as mentioned on bullet number 2 from the main section of this document
+5. [AWS Toolkit for Azure DevOps](https://aws.amazon.com/vsts/) Used in the service-connection. This connection **must** be configured previous to deployment and **has** to be configured as mentioned in bullet number 2 from the main section of this document
 6. SED: If you're using the linux subsystem, you can install it with:
    
    - sudo apt install -y sed
