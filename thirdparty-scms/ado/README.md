@@ -63,11 +63,9 @@ A PAT with the name **sdlf-aztoken** is necessary in order to allow the sdlf-tea
    - **organization**: The name of your organization
    - **project**: The name of the project where all the resources will be created
    - **repository-prefix**: The prefix of the repositories for the SDLF project
-   - **aws-codecommit-user**: The name of the IAM user that will be created on AWS (for example: sdlf-azure-mirror)
    - **service-connection-name**: The name of the service connection that will use the AWS Toolkit
      to allow the interaction with the CodeCommit repositories. 
-   - **sdlf-aztoken**: The PAT string created in the Azure DevOps console (like shown on Technical
-     Requirements, bullet number 2)  
+   - **sdlf-aztoken**: The PAT string created in the Azure DevOps console (like shown on TPrerequisites, bullet number 2)  
 
     Note: All the parameters are mandatory and can not be empty
 
